@@ -18,3 +18,4 @@ Code samples for the [Pip Install Series](https://youtube.com/playlist?list=PLNe
 | 3 | How Python Works Under the Hood: Control Flow and Bytecode | [Watch](https://youtu.be/HJTTLc7eOVs) | [`python-before-production/control-flow/`](python-before-production/control-flow/) |
 | 4 | PhD in Python Functions | [Watch](https://youtu.be/KJNlgewxSL0) | [`python-before-production/functions/`](python-before-production/functions/) |
 | 5 | How to Conquer Concurrency in Python | [Watch](https://youtu.be/chrOym38pw4) | [`python-before-production/concurrency/`](python-before-production/concurrency/) |
+| 6.1 | Object-Oriented Programming Greatest Hits | [Watch](https://youtu.be/41KcTRyzjXw) | [`python-before-production/oop/part-1/`](python-before-production/oop/part-1/) |
