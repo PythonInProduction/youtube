@@ -1,8 +1,8 @@
 # YouTube Code Samples for Python In Production
 
-Code samples for the [Pip Install Series](https://youtube.com/playlist?list=PLNee9ngvNZH3wl4joMm_rnFKQnu3xtRLE) on [YouTube](https://youtube.com/@pyinprod).
+Code samples for the [Pip Install Series](https://youtube.com/playlist?list=PLNee9ngvNZH3wl4joMm_rnFKQnu3xtRLE) and [Python Before Production](https://youtube.com/playlist?list=PLNee9ngvNZH0-zqmhj2NDqbe5PT-Y3zad) on [YouTube](https://youtube.com/@pyinprod).
 
-## Episodes
+## Pip Install Series
 
 | # | Episode | Video | Code |
 |---|---------|-------|------|
