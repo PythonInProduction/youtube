@@ -16,3 +16,4 @@ Code samples for the [Pip Install Series](https://youtube.com/playlist?list=PLNe
 |---|---------|-------|------|
 | 2.3 | Python 3.15's New frozendict vs dict | [Watch](https://youtu.be/9pZBwM1mzoo) | [`python-before-production/data-types/part-3/`](python-before-production/data-types/part-3/) |
 | 3 | How Python Works Under the Hood: Control Flow and Bytecode | [Watch](https://youtu.be/HJTTLc7eOVs) | [`python-before-production/control-flow/`](python-before-production/control-flow/) |
+| 4 | PhD in Python Functions | [Watch](https://youtu.be/KJNlgewxSL0) | [`python-before-production/functions/`](python-before-production/functions/) |
