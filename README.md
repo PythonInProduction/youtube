@@ -19,3 +19,4 @@ Code samples for the [Pip Install Series](https://youtube.com/playlist?list=PLNe
 | 4 | PhD in Python Functions | [Watch](https://youtu.be/KJNlgewxSL0) | [`python-before-production/functions/`](python-before-production/functions/) |
 | 5 | How to Conquer Concurrency in Python | [Watch](https://youtu.be/chrOym38pw4) | [`python-before-production/concurrency/`](python-before-production/concurrency/) |
 | 6.1 | Object-Oriented Programming Greatest Hits | [Watch](https://youtu.be/41KcTRyzjXw) | [`python-before-production/oop/part-1/`](python-before-production/oop/part-1/) |
+| 6.2 | Pythonic vs. AI | [Watch](https://youtu.be/L3-dIh9iSIs) | [`python-before-production/oop/part-2/`](python-before-production/oop/part-2/) |
