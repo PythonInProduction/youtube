@@ -9,3 +9,9 @@ Code samples for the [Pip Install Series](https://youtube.com/playlist?list=PLNe
 | 1 | Why Static Typing Matters in Python | [Watch](https://youtu.be/GtDViwvdyQw) | [`pip-install-series/typing/`](pip-install-series/typing/) |
 | 2 | Python 100% Test Coverage Trap | [Watch](https://youtu.be/vPhxhyEcw6s) | [`pip-install-series/testing/`](pip-install-series/testing/) |
 | 3 | Pydantic Isn't a Validation Library: Parsing in Python | [Watch](https://youtu.be/YL6IHz6cFVE) | [`pip-install-series/parsing/`](pip-install-series/parsing/) |
+
+## Python Before Production
+
+| # | Episode | Video | Code |
+|---|---------|-------|------|
+| 2.3 | Python 3.15's New frozendict vs dict | [Watch](https://youtu.be/9pZBwM1mzoo) | [`python-before-production/data-types/part-3/`](python-before-production/data-types/part-3/) |
